@@ -10,5 +10,6 @@ window.iconphoto(True,icon)
 
 namae = Label(window, image=icon)
 
+print("hello")
 namae.pack()
 window.mainloop()
