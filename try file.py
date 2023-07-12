@@ -13,5 +13,8 @@ namae = Label(window, image=icon)
 print("hello!!!")
 
 print("newline")
+
+print("trying in new branch")
+print("trying in new branch")
 namae.pack()
 window.mainloop()
